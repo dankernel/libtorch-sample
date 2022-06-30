@@ -1,0 +1,3 @@
+/home/dkdk/git/libtorch-sample/build/CMakeFiles/rebuild_cache.dir
+/home/dkdk/git/libtorch-sample/build/CMakeFiles/edit_cache.dir
+/home/dkdk/git/libtorch-sample/build/CMakeFiles/example-app.dir
